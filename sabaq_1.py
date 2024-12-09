@@ -1,0 +1,6 @@
+print("Hello world")
+print("Assalawma a'leykum")
+print("Helo")
+print(19 * 2)
+print(23 / 2)
+print(12 - 4)
